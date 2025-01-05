@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/black_ops_one</item>
+        <item>@font/creepster</item>
+        <item>@font/jacques_francois_shadow</item>
+        <item>@font/miltonian</item>
+        <item>@font/press_start_2p</item>
+    </array>
+</resources>
