@@ -54,3 +54,14 @@ A simple and interactive **Cookie Clicker** game clone built with Android Studio
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
 4. Start clicking and have fun with the game!
+
+To push and pull between your local Android Project and Github repo, run these commands in Terminal:
+
+git init
+git remote add origin https://github.com/vedp2003/CookieClicker.git //Change based on the specific repo 
+git add .
+git commit -m "Initial commit"
+git branch -m master main
+git push -u origin main
+
+git pull origin main
