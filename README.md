@@ -2,6 +2,8 @@
 
 A simple and interactive **Cookie Clicker** game clone built with Android Studio. Tap your way to cookie fun, manage resources, and enjoy fun customizable and animated features!
 
+[▶ View Play Demo on Appetize.io](https://appetize.io/app/b_jkn6pskkuj27lpl7bdygchirpe)
+
 ---
 
 ## Features
